@@ -1,3 +1,2 @@
 # AI-Academy-D-1
-Demo for Deloitte AI Academy
-Demo Classes
+As part of the AI Academy training organized by Deloitte USI, built this machine learning model for Loan Scheme acceptance prediction 
